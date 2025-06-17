@@ -1,0 +1,1 @@
+# hello there, this is my winter projects and lessons in sql, javascript, and python
